@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">watchingTelState</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_show_startservice">开始服务</string>
+</resources>
